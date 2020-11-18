@@ -4,27 +4,27 @@
     margin: 0;
 }
 
-body {
+body {/*Color for back drop*/
     background-color: #d9dcd6;
 }
 
-.header {
+.header { /*Styling for header bar*/
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+.header h1 { /*Styling for Logo */
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 .seo { /*Styling for Logo */
     color: #d9dcd6;
 }
 
-.header div {
+.header div { /*Styling for navigation buttons*/
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,50 +32,104 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
+.header div ul {/*Styling for navigation butons*/
     list-style-type: none;
 }
 
-.header div ul li {
+.header div ul li {/*Styling for navigation butons*/
     display: inline-block;
     margin-left: 25px;
 }
 
-a {
+a { /*Styling for nav butons*/
     color: #ffffff;
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
-.hero {
+.hero {/*Styleing for image under header */
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg"); /*This is the image under the Horeon Header. Should this be in the Html file???*/
     background-size: cover;
     background-position: center;
 }
 
-.float-left {
+p {/*Styling for paragraphs in main section. should this be after the .hero???*/
+    font-size: 16px;
+}
+
+.float-left {/*Styling to push photo to left of blue box*/
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+.float-right {/*Styling to push photo to right of blue box*/
     float: right;
     margin-left: 25px;
 }
 
-.content {
+.content {/*Formating for the sizes of the left blue blocks*/
     width: 75%;
-    display: inline-block;
+    display: inline-block; /*make it so the content only takes up the space that is sepecified*/
     margin-left: 20px;
 }
 
-.benefits {
+.search-engine-optimization { /*Styling for horizontal blue box*/
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.online-reputation-management { /*Styling for horizontal blue box*/
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.social-media-marketing { /*Styling for horizontal*/
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.search-engine-optimization img { /*Styling for horizontal img*/
+    max-height: 200px;
+}
+
+.online-reputation-management img { /*Styling for horizontal img*/
+    max-height: 200px;
+}
+
+.social-media-marketing img { /*Styling for horizontal img*/
+    max-height: 200px;
+}
+
+.search-engine-optimization h2 { /*Font styling for horizontal box*/
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.online-reputation-management h2 { /*Font styling for horizontal box*/
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.social-media-marketing h2 { /*Font styling for horizontal box*/
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.benefits { /*Formating for the right most vertical blue box*/
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -86,27 +140,27 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit-lead {/*Style font for lead generation*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
+.benefit-brand {/*style font for brand awarness*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-cost {
+.benefit-cost {/*Style font for cost managment*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h3 {/*Font for Lead all headers in right vertical blue box*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefit-brand h3 { /*Font styling for right blue box */
     margin-bottom: 10px;
     text-align: center;
 }
@@ -116,7 +170,7 @@ p {
     text-align: center;
 }
 
-.benefit-lead img {
+.benefit-lead img { /*sizing for icons sizes right box*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -132,60 +186,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .footer {
