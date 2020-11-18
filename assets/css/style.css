@@ -75,7 +75,7 @@ p {/*Styling for paragraphs in main section. should this be after the .hero???*/
     margin-left: 20px;
 }
 
-.search-engine-optimization { /*Styling for horizontal blue box*/
+.content-box { /*Styling for horizontal blue box*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -84,47 +84,11 @@ p {/*Styling for paragraphs in main section. should this be after the .hero???*/
     color: #ffffff;
 }
 
-.online-reputation-management { /*Styling for horizontal blue box*/
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing { /*Styling for horizontal*/
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img { /*Styling for horizontal img*/
+.content-box img { /*Styling for horizontal img*/
     max-height: 200px;
 }
 
-.online-reputation-management img { /*Styling for horizontal img*/
-    max-height: 200px;
-}
-
-.social-media-marketing img { /*Styling for horizontal img*/
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 { /*Font styling for horizontal box*/
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 { /*Font styling for horizontal box*/
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 { /*Font styling for horizontal box*/
+.content-box h2 { /*Font styling for horizontal box*/
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -140,49 +104,17 @@ p {/*Styling for paragraphs in main section. should this be after the .hero???*/
     background-color: #2589bd;
 }
 
-.benefit-lead {/*Style font for lead generation*/
+.benefit-head {/*Style font for lead generation*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {/*style font for brand awarness*/
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {/*Style font for cost managment*/
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {/*Font for Lead all headers in right vertical blue box*/
+.benefit-head h3 {/*Font for Lead all headers in right vertical blue box*/
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 { /*Font styling for right blue box */
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img { /*sizing for icons sizes right box*/
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+.benefit-head img { /*sizing for icons sizes right box*/
     display: block;
     margin: 10px auto;
     max-width: 150px;
