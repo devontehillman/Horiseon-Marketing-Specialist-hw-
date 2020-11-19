@@ -2,12 +2,12 @@
 
 ## Description
 Here I have improved it Horisoens webpage with out changing it's functionality. This refactoring inculdes accessible features for assistive technologies to increase search engine optimization. In order to achive this I have:
-*Added a descriptive a title, consolidated
-*Fixed all of the navigation buttons 
-*Added semantic tags 
-*Consolidated, and organized css selectors and page 
-*Added comments to help decipher fuctionalilty. 
-[Visit the website here](https://devontehillman.github.io/Horiseon-Marketing-Specialist-hw-/)
+* Added a descriptive a title, consolidated
+* Fixed all of the navigation buttons 
+* Added semantic tags 
+* Consolidated, and organized css selectors and page 
+* Added comments to help decipher fuctionalilty. 
+[Visit the website here.](https://devontehillman.github.io/Horiseon-Marketing-Specialist-hw-/)
 
 
 
