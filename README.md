@@ -9,7 +9,7 @@ Here I have improved Horiseon's marketing webpage ([Visit the website here.](htt
 * Added comments to help decipher fuctionalilty. 
 
 ## Finished-Page
-[Refactored Webpage](/Users/devontehillman/Documents/Class Work/Horiseon-Marketing-Specialist-hw-/assets/images/whole-webpage.png)
+[Refactored Webpage](./assets/images/whole-webpage.png)
 
 ## What did I learn?
 In this project I learned
