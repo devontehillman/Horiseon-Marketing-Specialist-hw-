@@ -1,26 +1,15 @@
 # Code Refactoring of Horiseon Marketing Firm
 
 ## Description
-Here I have improved Horisoens Marketing webpage ([Visit the website here.](https://devontehillman.github.io/Horiseon-Marketing-Specialist-hw-/)) with out changing it's functionality. This refactoring inculdes accessible features for assistive technologies to increase search engine optimization. In order to achive this I have:
-* Added a descriptive title, consolidated.
+Here I have improved Horiseon's marketing webpage ([Visit the website here.](https://devontehillman.github.io/Horiseon-Marketing-Specialist-hw-/)) without changing it's functionality. This refactoring inculdes accessible features for assistive technologies to increase search engine optimization. In order to achive this I have:
+* Added a descriptive title.
 * Fixed all of the navigation buttons.
 * Added semantic tags. 
-* Consolidated and organized css selectors and page. 
+* Consolidated and organized their css selectors and page. 
 * Added comments to help decipher fuctionalilty. 
 
-
-
-
-
-
-## Features
-Navigation functionality 
-
-Commenting 
-
-Semantic Tags 
-
-## Feedback 
+## Finished-Page
+![Refactored Webpage](/Users/devontehillman/Documents/Class Work/Horiseon-Marketing-Specialist-hw-/assets/images/whole-webpage.png)
 
 ## What did I learn?
 In this project I learned
