@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-/*Color for back drop*/
+/*Color for back-drop*/
 body {
     background-color: #d9dcd6;
 }
@@ -64,7 +64,7 @@ p {
     float: left;
     margin-right: 25px;
 }
-/*Styling to push photo to left horizontal blue boxes*/
+/*Styling to push photo to right horizontal blue boxes*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -85,7 +85,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*Styling for left horizontal blue boxes img*/
+/*Sizing for left horizontal blue boxes images*/
 .content-box img { 
     max-height: 200px;
 }
@@ -121,14 +121,14 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*Style for bottom logo*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*Style for bottom logo*/
 .footer h2 {
     font-size: 20px;
 }
