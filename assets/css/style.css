@@ -75,6 +75,7 @@ p {
     /*Makes it so the content only takes up the space that is sepecified*/
     display: inline-block; 
     margin-left: 20px;
+    float: left;
 }
 /*Styling for left horizontal blue boxes blue box*/
 .content-box { 
@@ -98,7 +99,6 @@ p {
 .benefits { 
     margin-right: 20px;
     padding: 20px;
-    clear: both;
     float: right;
     width: 20%;
     height: 100%;
