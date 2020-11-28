@@ -12,7 +12,7 @@ Here I have improved Horiseon's marketing web page ([Visit the website here.](ht
 ![Refactored Webpage](./assets/images/whole-webpage.png)
 
 ## What did I learn?
-In this project I learned
+In this project I learned:
 * How to add semantic tags.
 * How to correctly format comments. 
 * Various css features and how to consolidate them to create cleaner code.
